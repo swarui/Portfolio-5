@@ -10,6 +10,7 @@
   font-family: Futura;
   src: url(./fonts/Futura\ Heavy\ font.ttf);
 }
+
 * {
   padding: 0;
   margin: 0;
@@ -31,7 +32,7 @@ body {
   margin-top: -3px;
   font-family: Poppins Bold;
 }
-.header h2{
+.header h2 {
   font-family: Poppins Bold;
 }
 .logo span {
